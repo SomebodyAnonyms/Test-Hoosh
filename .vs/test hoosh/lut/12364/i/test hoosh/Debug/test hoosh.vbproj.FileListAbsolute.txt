@@ -1,0 +1,29 @@
+E:\Program\test hoosh\.vs\test hoosh\lut\0\b\test hoosh.exe.config
+E:\Program\test hoosh\.vs\test hoosh\lut\0\b\test hoosh.exe
+E:\Program\test hoosh\.vs\test hoosh\lut\0\b\en-US\test hoosh.resources.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.vbprojAssemblyReference.cache
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\Interop.SonicClickUltra.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\Interop.WMPLib.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\AxInterop.SonicClickUltra.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\AxInterop.WMPLib.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.vbproj.ResolveComReference.cache
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form1.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form10.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form11.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form12.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form2.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form3.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form4.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form5.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form6.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form7.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form8.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form9.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Resources.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form1.en-US.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\WindowsApplication1.Form8.en-US.resources
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.vbproj.GenerateResource.cache
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.vbproj.CoreCompileInputs.cache
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\en-US\test hoosh.resources.dll
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.vbproj.CopyComplete
+E:\Program\test hoosh\.vs\test hoosh\lut\0\i\test hoosh\Debug\test hoosh.exe
